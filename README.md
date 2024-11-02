@@ -5,10 +5,26 @@
 
 ###
 
-<p align="left">I'm Fernando</p>
+<h3 align="left">I'm a cadet at 42 São Paulo. My name is Fernando. Nice to meet you.</h3>
 
 ###
 
-<p align="left">Hello World!!</p>
+<h4 align="left">You can see all my repositories here. If you find any issue, please contact me immediately. I appreciate all help to improve my knowledge.</h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/fernandoruanb/fernandoruanb/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/fernandoruanb/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+</div>
 
 ###
