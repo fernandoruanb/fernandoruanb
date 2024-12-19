@@ -39,9 +39,11 @@
 
 ###
 
+Contact Me
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href = "mailto:fernandosingaporefuture@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/fernandoruanb/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23333?style=for-the-badge&color=purple&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://profile.intra.42.fr/users/fruan-ba"><img src="https://img.shields.io/badge/-%C3%A9cole%2042-%23000000?style=for-the-badge&color=grey&logo=42&logoColor"/></a>
 </div>
 
 ###
