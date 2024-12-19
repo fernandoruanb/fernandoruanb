@@ -1,3 +1,12 @@
+<div align= "center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=800&color=33CCFF&vCenter=true&random=false&width=435&lines=Hi!+I%27m+Fernando%20Ruan;%20and%20I%27m%20a%20cadet%20at%2042%20S%C3%A3o%20Paulo;studying%20software%20engineering;to%20become%20a%20great%20professional.;)](https://git.io/typing-svg)
+
+</div>
+
+- 🌐Future information technology professional;
+- 💻Studying Software Engineering at 42 São Paulo;
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fernandoruanb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoruanb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
