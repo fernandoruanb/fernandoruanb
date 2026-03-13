@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="https://cdn.pixabay.com/video/2016/12/16/6797-196071980_large.mp4" autoplay muted loop playsinline width="100%"></video>
+  <img src="https://cdn.pixabay.com/photo/2017/10/14/18/31/uplifting-2851424_1280.jpg" width="100%"></video>
 </p>
 
 <h1 align="center">Fernando Ruan</h1>
