@@ -36,6 +36,9 @@ Beyond technology, I have a deep admiration for the great philosophers of antiqu
 
 I also consider the study of ancient languages extremely important, particularly **Ancient Greek, Latin, Sanskrit, Hebrew, and Classical Arabic**. In particular, **Ancient Greek** allows us to access many fundamental concepts directly from their original sources, enabling a deeper understanding of philosophy and the sciences.
 
+I like to study technology to expand my mind and solve complex problems. I love Linux, systems, build strong programs to solve every kind of problem. As I said,
+I love challenges.
+
 Another area that fascinates me is the study of **human consciousness, meaning, and the perception of reality**. For this reason, I enjoy exploring **symbolic and philosophical systems**, including archetypal traditions found in **philosophy, mythology, Tarot, and Kabbalah** — not from a purely mystical perspective, but as intellectual frameworks historically used to explore patterns of thought, meaning, and human psychology.
 
 I am also someone who does not hesitate to contact people from different countries if I believe they may hold the answers I seek. I would not hesitate to travel alone across the world if that journey could lead to knowledge, exploration, and bold discoveries.
