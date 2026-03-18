@@ -36,8 +36,8 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/fernandoruanb/Libft"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png"</a> alt="Libft badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf badge"></td>
+    <td><a href="https://github.com/fernandoruanb/Libft"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/ft_printf"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf badge"></a></td>
     <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linee.png" alt="get_next_line badge"></td>
     <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" alt="born2beroot badge"></td>
   </tr>
