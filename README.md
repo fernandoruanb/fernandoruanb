@@ -38,25 +38,25 @@
   <tr>
     <td><a href="https://github.com/fernandoruanb/Libft"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft badge"></a></td>
     <td><a href="https://github.com/fernandoruanb/ft_printf"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf badge"></a></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linee.png" alt="get_next_line badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" alt="born2beroot badge"></td>
+    <td><a href="https://github.com/fernandoruanb/get_next_line"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linee.png" alt="get_next_line badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/born2beroot"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" alt="born2beroot badge"></a></td>
   </tr>
   <tr>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minitalkm.png" alt="minitalk badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexe.png" alt="pipex badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longe.png" alt="so_long badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" alt="push_swap badge"></td>
+    <td><a href="https://github.com/fernandoruanb/MiniTalk"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minitalkm.png" alt="minitalk badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/pipex"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexe.png" alt="pipex badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/So_long"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longe.png" alt="so_long badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/push_swap"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" alt="push_swap badge"></a></td>
   </tr>
   <tr>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" alt="minishell badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" alt="philosophers badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3dm.png" alt="cub3d badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png" alt="cpp badge"></td>
+    <td><a href="https://github.com/fernandoruanb/minishell"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" alt="minishell badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/philosophers"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" alt="philosophers badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/cub3d"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3dm.png" alt="cub3d badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/cpp"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png" alt="cpp badge"></a></td>
   </tr>
   <tr>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png" alt="net_practice badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_ircm.png" alt="ft_irc badge"></td>
-    <td><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencem.png" alt="ft_transcendence badge"></td>
+    <td><a href="https://github.com/fernandoruanb/net_practice"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png" alt="net_practice badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/ft_irc"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_ircm.png" alt="ft_irc badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/ft_transcendence"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencem.png" alt="ft_transcendence badge"></a></td>
     <td></td>
   </tr>
 </table>
