@@ -130,7 +130,7 @@
         <img src="https://img.shields.io/badge/42-ft__irc-00C853?style=for-the-badge" alt="ft_irc Shields Badge">
       </a>
       <a href="https://github.com/fernandoruanb/ft_irc">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_ircm.png" width="60" alt="ft_irc 42 Badge">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_irce.png" width="60" alt="ft_irc 42 Badge">
       </a>
       <br>
       <b>ft_irc</b>
