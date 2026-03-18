@@ -61,6 +61,122 @@
   </tr>
 </table>
 
+<h3 align="center">🎮 &nbsp;42 Projects Visualization </h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/minishell">
+        <img src="https://img.shields.io/badge/42-Minishell-00C853?style=for-the-badge" alt="Minishell Shields Badge">
+      </a>
+      <a href="https://github.com/fernandoruanb/minishell">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" width="60" alt="Minishell 42 Badge">
+      </a>
+      <br>
+      <b>Minishell</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p align="center">
+      <img src="https://raw.githubusercontent.com/oJonasRtz/oJonasRtz/main/assets/video/minishell_demo.gif" width="80%" alt="Minishell demo GIF">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🎥 Demo GIF by <a href="https://github.com/oJonasRtz">oJonasRtz</a><br>
+      Member of our team — this demo represents a project developed collaboratively by us.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/cub3d">
+        <img src="https://img.shields.io/badge/42-Cub3D-00C853?style=for-the-badge" alt="Cub3D Shields Badge">
+      </a>
+      <a href="https://github.com/fernandoruanb/cub3d">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3dm.png" width="60" alt="Cub3D 42 Badge">
+      </a>
+      <br>
+      <b>Cub3D</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p align="center">
+      <img src="https://raw.githubusercontent.com/oJonasRtz/oJonasRtz/main/assets/video/cub3d_demo.gif" width="80%" alt="Cub3D demo GIF">
+     </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🎥 Demo GIF by <a href="https://github.com/oJonasRtz">oJonasRtz</a><br>
+      Member of our team — this demo represents a project developed collaboratively by us.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/ft_irc">
+        <img src="https://img.shields.io/badge/42-ft__irc-00C853?style=for-the-badge" alt="ft_irc Shields Badge">
+      </a>
+      <a href="https://github.com/fernandoruanb/ft_irc">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_ircm.png" width="60" alt="ft_irc 42 Badge">
+      </a>
+      <br>
+      <b>ft_irc</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p align="center">
+      <img src="https://raw.githubusercontent.com/oJonasRtz/oJonasRtz/main/assets/video/irc_demo.gif" width="80%" alt="ft_irc demo GIF">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🎥 Demo GIF by <a href="https://github.com/oJonasRtz">oJonasRtz</a><br>
+      Project developed collaboratively with <a href="https://github.com/oJonasRtz">oJonasRtz</a> and <a href="https://github.com/afsser">afsser</a>.
+    </td>
+  </tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/ft_transcendence">
+        <img src="https://img.shields.io/badge/42-ft__transcendence-00C853?style=for-the-badge" alt="ft_transcendence Shields Badge">
+      </a>
+      <a href="https://github.com/fernandoruanb/ft_transcendence">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencem.png" width="60" alt="ft_transcendence 42 Badge">
+      </a>
+      <br>
+      <b>ft_transcendence</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p align="center">
+      <img src="https://raw.githubusercontent.com/oJonasRtz/oJonasRtz/main/assets/video/transcendence_demo.gif" width="80%" alt="ft_transcendence demo GIF">
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🎥 Demo GIF by <a href="https://github.com/oJonasRtz">oJonasRtz</a><br>
+      Project developed collaboratively with <a href="https://github.com/oJonasRtz">oJonasRtz</a>, <a href="https://github.com/afsser">afsser</a>, <a href="https://github.com/jos-felip">jos-felip</a>, and <a href="https://github.com/SeijiUeno">SeijiUeno</a>.
+    </td>
+  </tr>
+</table>
+  
 <h2 align="center">🧠 My Main Interests</h2>
 
 <table align="center">
