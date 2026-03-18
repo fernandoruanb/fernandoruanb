@@ -172,7 +172,7 @@
   <tr>
     <td align="center">
       🎥 Demo GIF by <a href="https://github.com/oJonasRtz">oJonasRtz</a><br>
-      Project developed collaboratively with <a href="https://github.com/oJonasRtz">oJonasRtz</a>, <a href="https://github.com/afsser">afsser</a>, <a href="https://github.com/jos-felip">jos-felip</a>, and <a href="https://github.com/SeijiUeno">SeijiUeno</a>.
+      Project developed collaboratively with <a href="https://github.com/oJonasRtz">oJonasRtz</a>, <a href="https://github.com/afsser">afsser</a>, <a href="https://github.com/jos-felipe">jos-felipe</a>, and <a href="https://github.com/SeijiUeno">SeijiUeno</a>.
     </td>
   </tr>
 </table>
