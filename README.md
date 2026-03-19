@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/common_coree.png" alt="Common Core badge" width="200">
 </p>
 <p align="center">
-     <sub>Badge by <a href="https://github.com/lrcouto">lrcouto</a></sub>
+     <sub>Badge designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
   </p>
 
 <h3>👨‍💻 &nbsp;About Me</h3>
@@ -54,7 +54,7 @@
     <td><a href="https://github.com/fernandoruanb/minishell"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" alt="minishell badge"></a></td>
     <td><a href="https://github.com/fernandoruanb/philosophers"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" alt="philosophers badge"></a></td>
     <td><a href="https://github.com/fernandoruanb/cub3d"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3dm.png" alt="cub3d badge"></a></td>
-    <td><a href="https://github.com/fernandoruanb/cpp"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png" alt="cpp badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/CPP_Common_Core_42"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png" alt="cpp badge"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/fernandoruanb/net_practice"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png" alt="net_practice badge"></a></td>
@@ -64,7 +64,7 @@
   </tr>
 </table>
 <p align="center">
-     <sub>Badges by <a href="https://github.com/lrcouto">lrcouto</a></sub>
+     <sub>Badges designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
   </p>
 <h3 align="center">🎮 &nbsp;42 Projects Visualization (Common Core)</h3>
 
