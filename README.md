@@ -12,6 +12,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/common_coree.png" alt="Common Core badge" width="200">
 </p>
+<p align="center">
+     <sub>Badge by <a href="https://github.com/lrcouto">lrcouto</a></sub>
+  </p>
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
@@ -60,7 +63,9 @@
     <td></td>
   </tr>
 </table>
-
+<p align="center">
+     <sub>Badges by <a href="https://github.com/lrcouto">lrcouto</a></sub>
+  </p>
 <h3 align="center">🎮 &nbsp;42 Projects Visualization </h3>
 
 <table align="center">
