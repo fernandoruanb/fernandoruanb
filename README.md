@@ -35,7 +35,7 @@
 
 ---
 
-<h3>🎮 &nbsp;42 Projects</h3>
+<h3>🎮 &nbsp;42 Projects (Common Core)</h3>
 
 <table align="center">
   <tr>
@@ -66,7 +66,7 @@
 <p align="center">
      <sub>Badges by <a href="https://github.com/lrcouto">lrcouto</a></sub>
   </p>
-<h3 align="center">🎮 &nbsp;42 Projects Visualization </h3>
+<h3 align="center">🎮 &nbsp;42 Projects Visualization (Common Core)</h3>
 
 <table align="center">
   <tr>
