@@ -181,7 +181,15 @@
     </td>
   </tr>
 </table>
-  
+
+<h3 align="center">🎮 &nbsp; Competitive Program Zone </h3>
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/fernandoruanb/competitive_programming"><img width="180" src="https://miro.medium.com/1*0HMd3UBqpu478hk_HbhEaA.png"></td>
+      <td><a href="https://github.com/fernandoruanb/competitive_programming"><img width="180" src="https://codeforces.com/codeforces.org/s/79342/images/codeforces-sponsored-by-ton.png"></td>
+        <td><a href="https://github.com/fernandoruanb/competitive_programming"><img width="180" src="https://media.zenfs.com/en/accesswire.ca/37f8e28a86b9438fe42f09cfde33b9ce"></td>
+  </tr>
+</table>
 <h2 align="center">🧠 My Main Interests</h2>
 
 <table align="center">
