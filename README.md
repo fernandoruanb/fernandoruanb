@@ -84,7 +84,7 @@
   <tr>
     <td align="center">
       <p align="center">
-      <img src="https://raw.githubusercontent.com/oJonasRtz/oJonasRtz/main/assets/video/minishell_demo.gif" width="80%" alt="Minishell demo GIF">
+      <img src="./assets/minishell_demo.gif" width="100%" alt="Minishell demo GIF">
       </p>
     </td>
   </tr>
@@ -114,7 +114,7 @@
   <tr>
     <td align="center">
       <p align="center">
-      <img src="https://raw.githubusercontent.com/oJonasRtz/oJonasRtz/main/assets/video/cub3d_demo.gif" width="80%" alt="Cub3D demo GIF">
+      <img src="./assets/cub3d_demo.gif" width="100%" alt="Cub3D demo GIF">
      </p>
     </td>
   </tr>
@@ -144,7 +144,7 @@
   <tr>
     <td align="center">
       <p align="center">
-      <img src="https://raw.githubusercontent.com/oJonasRtz/oJonasRtz/main/assets/video/irc_demo.gif" width="80%" alt="ft_irc demo GIF">
+      <img src="./assets/irc_demo.gif" width="100%" alt="ft_irc demo GIF">
       </p>
     </td>
   </tr>
@@ -170,7 +170,7 @@
   <tr>
     <td align="center">
       <p align="center">
-      <img src="https://raw.githubusercontent.com/oJonasRtz/oJonasRtz/main/assets/video/transcendence_demo.gif" width="80%" alt="ft_transcendence demo GIF">
+      <img src="./assets/transcendence_demo.gif" width="100%" alt="ft_transcendence demo GIF">
     </p>
     </td>
   </tr>
