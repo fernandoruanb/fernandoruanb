@@ -42,7 +42,7 @@
 - 🖥️ &nbsp; Passionate about **systems programming, Linux, Docker, microservices and problem-solving**.
 - 🧠 &nbsp; Deeply interested in **high-performance learning, memory development and interdisciplinary knowledge, as at UFABC**.
 - 📚 &nbsp; Exploring connections between **technology, mathematics, philosophy, neuroscience, engineering, astronomy and classical studies**.
-- 🌍 &nbsp; Motivated by **international standards of excellence like CEH and Singapore Cambridge O-levels/A-levels**, global collaboration, and continuous growth.
+- 🌍 &nbsp; Driven by international standards of excellence such as CEH and the Singapore-Cambridge O-Level and A-Level qualifications, along with a strong focus on global collaboration and continuous growth.
 - 🚀 &nbsp; Always seeking to build strong systems, learn fast, and tackle meaningful challenges.
 
 <h3 id="intellectual-interests">🌌 &nbsp;Intellectual Interests</h3>
