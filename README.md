@@ -16,16 +16,32 @@
      <sub>Badge designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
   </p>
 
-<h3>👨‍💻 &nbsp;About Me</h3>
+<p align="center">
+  <a href="#about-me">About Me</a> •
+  <a href="#intellectual-interests">Intellectual Interests</a> •
+  <a href="#common-core-projects">42 Common Core Projects</a> •
+  <a href="#projects-visualization">42 Projects Visualization</a> •
+  <a href="#competitive-programming">Competitive Programming</a> •
+  <a href="#my-testers">My Testers</a> •
+  <a href="#main-interests">Main Interests</a> •
+  <a href="#technologies">Technologies Zone</a> •
+  <a href="#soft-skills">Soft Skills</a> •
+  <a href="#spoken-languages">Spoke Languages</a> •
+  <a href="#github-stats">GitHub Stats</a> •
+  <a href="#connect-with-me">Connect with me</a>
+</p>
+
+
+<h3 id="about-me">👨‍💻 &nbsp;About Me</h3>
 
 - 🇧🇷 &nbsp; Brazilian software engineer graduated from **École 42**.
-- 🖥️ &nbsp; Passionate about **systems programming, Linux, Docker, microservices, and problem-solving**.
-- 🧠 &nbsp; Deeply interested in **high-performance learning, memory development, and interdisciplinary knowledge**.
-- 📚 &nbsp; Exploring connections between **technology, mathematics, philosophy, neuroscience, and classical studies**.
+- 🖥️ &nbsp; Passionate about **systems programming, Linux, Docker, microservices and problem-solving**.
+- 🧠 &nbsp; Deeply interested in **high-performance learning, memory development, mental calculation and interdisciplinary knowledge**.
+- 📚 &nbsp; Exploring connections between **technology, mathematics, philosophy, neuroscience, engineering and classical studies**.
 - 🌍 &nbsp; Motivated by **international standards of excellence**, global collaboration, and continuous growth.
 - 🚀 &nbsp; Always seeking to build strong systems, learn fast, and tackle meaningful challenges.
 
-<h3>🌌 &nbsp;Intellectual Interests</h3>
+<h3 id="intellectual-interests">🌌 &nbsp;Intellectual Interests</h3>
 
 - 🏛️ &nbsp; Inspired by the **Trivium and Quadrivium** as frameworks for developing the mind.
 - 🇬🇷 &nbsp; Strong interest in **Ancient Greek, Latin, Sanskrit, Hebrew, and Classical Arabic**.
@@ -35,7 +51,7 @@
 
 ---
 
-<h3>🎮 &nbsp;42 Projects (Common Core)</h3>
+<h3 id="common-core-projects">🎮 &nbsp;42 Projects (Common Core)</h3>
 
 <table align="center">
   <tr>
@@ -66,7 +82,7 @@
 <p align="center">
      <sub>Badges designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
   </p>
-<h3 align="center">🎮 &nbsp;42 Projects Visualization (Common Core)</h3>
+<h3 id="projects-visualization" align="center">🎮 &nbsp;42 Projects Visualization (Common Core)</h3>
 
 <table align="center">
   <tr>
@@ -182,7 +198,7 @@
   </tr>
 </table>
 
-<h3 align="center">🎮 &nbsp; Competitive Program Zone </h3>
+<h3 id="competitive-programming" align="center">🎮 &nbsp; Competitive Program Zone </h3>
 <table align="center">
   <tr>
     <td><a href="https://github.com/fernandoruanb/competitive_programming"><img width="180" src="https://miro.medium.com/1*0HMd3UBqpu478hk_HbhEaA.png"></td>
@@ -190,7 +206,13 @@
         <td><a href="https://github.com/fernandoruanb/competitive_programming"><img width="180" src="https://media.zenfs.com/en/accesswire.ca/37f8e28a86b9438fe42f09cfde33b9ce"></td>
   </tr>
 </table>
-<h2 align="center">🧠 My Main Interests</h2>
+
+<h3 id="my-testers" align="center">👨‍💻 &nbsp;My Testers</h3>
+<p align="center">
+  Soon, I will add my testers here, as I believe that building testers is an excellent way to develop an error-detection mindset, as well as to strengthen problem-solving across various scenarios by automating discoveries and anticipating errors before they occur.
+</p>
+
+<h2 id="main-interests" align="center">🧠 My Main Interests</h2>
 
 <table align="center">
   <tr>
@@ -212,7 +234,7 @@
 </table>
 
 
-<h2 align="center">⚙️ Technologies</h2>
+<h2 id="technologies" align="center">⚙️ Technologies</h2>
 
 <table align="center">
   <tr>
@@ -245,7 +267,7 @@
   </tr>
 </table>
 
-<h3>🤝 &nbsp;Soft Skills</h3>
+<h3 id="soft-skills">🤝 &nbsp;Soft Skills</h3>
 
 - 📚 &nbsp; Strong **learning mindset** and openness to continuous improvement.
 - 🤝 &nbsp; Comfortable with **teamwork, collaboration, and knowledge sharing**.
@@ -255,14 +277,14 @@
 
 ---
 
-<h3>🌍 &nbsp;Languages</h3>
+<h3 id="spoken-languages">🌍 &nbsp;Spoke Languages</h3>
 
 - **Brazilian Portuguese** — Native
 - **English** — Conversational and continuously improving
 
 ---
 
-<h3>📈 &nbsp;GitHub Stats</h3>
+<h3 id="github-stats">📈 &nbsp;GitHub Stats</h3>
 <p align="center">
 <img width="400" height="300" alt="image" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif" />
 </p>
@@ -273,7 +295,7 @@
 
 ---
 
-<h3>🌐 &nbsp;Connect with Me</h3>
+<h3 id="connect-with-me">🌐 &nbsp;Connect with Me</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fernando-ruan/">
