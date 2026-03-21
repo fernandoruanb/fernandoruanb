@@ -89,6 +89,32 @@
 <h3 id="projects-visualization" align="center">🎮 &nbsp;42 Projects Visualization (Common Core)</h3>
 
 <table align="center">
+   <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/So_long">
+        <img src="https://img.shields.io/badge/42-so_long-00C853?style=for-the-badge" alt="So_long Shields Badge">
+      </a>
+      <a href="https://github.com/fernandoruanb/So_long">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longe.png" width="60" alt="So_long 42 Badge">
+      </a>
+      <br>
+      <b>So_long</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p align="center">
+      <img src="./assets/so_long.gif" width="100%" alt="Cub3D demo GIF">
+     </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🎥 Demo GIF by <a href="https://github.com/fernandoruanb">fruan-ba, yes it's me =D</a><br>
+    </td>
+  </tr>
+</table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/fernandoruanb/minishell">
