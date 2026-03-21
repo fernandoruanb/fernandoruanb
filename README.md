@@ -17,6 +17,10 @@
   </p>
 
 <p align="center">
+  <strong>🟢 OPEN TO WORK =D 🟢</strong>
+</p>
+
+<p align="center">
   <a href="#about-me">About Me</a> •
   <a href="#intellectual-interests">Intellectual Interests</a> •
   <a href="#common-core-projects">42 Common Core Projects</a> •
