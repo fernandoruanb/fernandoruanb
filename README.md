@@ -40,17 +40,17 @@
 
 - 🇧🇷 &nbsp; Brazilian software engineer graduated from **École 42**.
 - 🖥️ &nbsp; Passionate about **systems programming, Linux, Docker, microservices and problem-solving**.
-- 🧠 &nbsp; Deeply interested in **high-performance learning, memory development, mental calculation and interdisciplinary knowledge**.
-- 📚 &nbsp; Exploring connections between **technology, mathematics, philosophy, neuroscience, engineering and classical studies**.
-- 🌍 &nbsp; Motivated by **international standards of excellence**, global collaboration, and continuous growth.
+- 🧠 &nbsp; Deeply interested in **high-performance learning, memory development and interdisciplinary knowledge, as at UFABC**.
+- 📚 &nbsp; Exploring connections between **technology, mathematics, philosophy, neuroscience, engineering, astronomy and classical studies**.
+- 🌍 &nbsp; Motivated by **international standards of excellence like CEH and Singapore Cambridge O-levels/A-levels**, global collaboration, and continuous growth.
 - 🚀 &nbsp; Always seeking to build strong systems, learn fast, and tackle meaningful challenges.
 
 <h3 id="intellectual-interests">🌌 &nbsp;Intellectual Interests</h3>
 
 - 🏛️ &nbsp; Inspired by the **Trivium and Quadrivium** as frameworks for developing the mind.
-- 🇬🇷 &nbsp; Strong interest in **Ancient Greek, Latin, Sanskrit, Hebrew, and Classical Arabic**.
-- 🧩 &nbsp; Curious about **human consciousness, symbolic systems, meaning, and perception of reality**.
-- 📖 &nbsp; Fascinated by **polymathy, structured learning, memory systems, and mental models**.
+- 🇬🇷 &nbsp; Strong interest in **Ancient Greek, Latin, Sanskrit, Hebrew and Classical Arabic** discovering wisdom through the ancients.
+- 🧩 &nbsp; Curious about **human consciousness, symbolic systems, meaning and perception of reality**.
+- 📖 &nbsp; Fascinated by **polymathy, polyglot, mental calculation, structured learning, memory systems and mental models**.
 - 🌏 &nbsp; Open to traveling, learning from people across the world, and pursuing knowledge wherever it may be found.
 
 ---
