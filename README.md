@@ -24,6 +24,7 @@
   <a href="#about-me">About Me</a> •
   <a href="#intellectual-interests">Intellectual Interests</a> •
   <a href="#common-core-projects">42 Common Core Projects</a> •
+  <a href="#specialization-42-projects">42 Specialization Projects</a> •
   <a href="#projects-visualization">42 Projects Visualization</a> •
   <a href="#competitive-programming">Competitive Programming</a> •
   <a href="#my-testers">My Testers</a> •
@@ -86,6 +87,12 @@
 <p align="center">
      <sub>Badges designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
   </p>
+
+  <h3 id="specialization-42-projects" align="center">👨‍💻 &nbsp;42 Specialization Projects</h3>
+<p align="center">
+  Coming soon, there will be a table here with badges of projects developed during the 42 specialization, such as Matcha, where I will build my own Tinder; Cloud, where I will gain experience with cloud platforms; Camagru, my own Instagram; and applications similar to Spotify, Instagram, and others. =D
+</p>
+
 <h3 id="projects-visualization" align="center">🎮 &nbsp;42 Projects Visualization (Common Core)</h3>
 
 <table align="center">
