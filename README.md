@@ -210,10 +210,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/fernandoruanb/ft_transcendence">
+      <a href="https://github.com/fernandoruanb/transcendence">
         <img src="https://img.shields.io/badge/42-ft__transcendence-00C853?style=for-the-badge" alt="ft_transcendence Shields Badge">
       </a>
-      <a href="https://github.com/fernandoruanb/ft_transcendence">
+      <a href="https://github.com/fernandoruanb/transcendence">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencem.png" width="60" alt="ft_transcendence 42 Badge">
       </a>
       <br>
