@@ -40,7 +40,7 @@
 <h3 id="about-me">👨‍💻 &nbsp;About Me</h3>
 
 - 🇧🇷 &nbsp; Brazilian software engineer graduated from **École 42**.
-- 🌍 &nbsp; Student at <a href="https://m60.com.br/">M60</a>, exploring global opportunities alongside Matheus Akira Tomoto and a diverse international community . Always learning, building, and expanding my horizons =D.
+- 🌍 &nbsp; Student at <a href="https://m60.com.br/">M60</a>, exploring global opportunities alongside Matheus Akira Tomoto and a diverse international community always learning, building, and expanding my horizons =D.
 - 🏋️ &nbsp; I’m passionate about sports, especially CrossFit.
 - 🖥️ &nbsp; Passionate about **systems programming, Linux, Docker, microservices and problem-solving**.
 - 🧠 &nbsp; Deeply interested in **high-performance learning, memory development and interdisciplinary knowledge, as at UFABC**.
