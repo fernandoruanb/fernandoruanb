@@ -90,7 +90,7 @@
 
   <h3 id="specialization-42-projects" align="center">👨‍💻 &nbsp;42 Specialization Projects</h3>
 <p align="center">
-  Coming soon, there will be a table here with badges of projects developed during the 42 specialization, such as Matcha, where I will build my own Tinder; Cloud, where I will gain experience with cloud platforms; Camagru, my own Instagram; and applications similar to Spotify, Instagram, and others. =D
+  Coming soon, there will be a table here with badges of projects developed during the 42 specialization, such as Matcha, where I will build my own Tinder; Cloud, where I will gain experience with cloud platforms; Camagru, my own Instagram; and applications similar to Spotify, Hangouts and others. =D
 </p>
 
 <h3 id="projects-visualization" align="center">🎮 &nbsp;42 Projects Visualization (Common Core)</h3>
