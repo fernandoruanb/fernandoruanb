@@ -267,7 +267,7 @@
   </tr>
   <tr>
      <td><img src="https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Development"></td>
-<td><img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"></td>
+<td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></td>
 <td><img src="https://img.shields.io/badge/Game_Development-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development"></td>
   </tr>
 </table>
