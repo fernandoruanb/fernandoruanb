@@ -40,22 +40,20 @@
 <h3 id="about-me">👨‍💻 &nbsp;About Me</h3>
 
 - 🇧🇷 &nbsp; Brazilian software engineer graduated from **École 42**.
-- 🌍 &nbsp; Student at <a href="https://m60.com.br/">M60</a>, exploring global opportunities alongside Matheus Akira Tomoto and a diverse international community always learning, building, and expanding my horizons =D.
-- 🏋️ &nbsp; I’m passionate about sports, especially CrossFit.
-- 🖥️ &nbsp; Passionate about **systems programming, Linux, Docker, microservices and problem-solving**.
-- 🧠 &nbsp; Deeply interested in **high-performance learning, memory development and interdisciplinary knowledge, as at UFABC**.
-- 📚 &nbsp; Exploring connections between **technology, mathematics, philosophy, neuroscience, engineering, astronomy and classical studies**.
-- 🌍 &nbsp; Driven by international standards of excellence such as CEH and the Singapore-Cambridge O-Level and A-Level qualifications, along with a strong focus on global collaboration and continuous growth.
-- 🚀 &nbsp; Always seeking to build strong systems, learn fast, and tackle meaningful challenges.
+- 🛡️ &nbsp; Focused on **cybersecurity** as my main area of growth and specialization.
+- 🖥️ &nbsp; Interested in **systems programming, Linux, Docker, microservices and secure infrastructure**.
+- 🌍 &nbsp; Student at <a href="https://m60.com.br/">M60</a>, pursuing international standards, collaboration and continuous improvement.
+- 🏋️ &nbsp; Sports enthusiast, especially **CrossFit**.
+- 🚀 &nbsp; Always looking to solve real problems, strengthen my skills and build impactful projects.
 
 <h3 id="intellectual-interests">🌌 &nbsp;Intellectual Interests</h3>
 
-- 🏛️ &nbsp; Inspired by the **Trivium and Quadrivium** as frameworks for developing the mind.
-- 🇬🇷 &nbsp; Strong interest in **Ancient Greek, Latin, Sanskrit, Hebrew and Classical Arabic** discovering wisdom through the ancients.
-- 🧩 &nbsp; Curious about **human consciousness, symbolic systems, meaning and perception of reality**.
-- 📖 &nbsp; Fascinated by **polymathy, polyglot, mental calculation, structured learning, memory systems and mental models**.
-- 🌏 &nbsp; Open to traveling, learning from people across the world, and pursuing knowledge wherever it may be found.
-
+- 🏛️ &nbsp; Interested in classical traditions of thought, especially the **Trivium and Quadrivium**.
+- 🇬🇷 &nbsp; Curious about **classical languages**, knowledge systems and the intellectual legacy of ancient civilizations.
+- 🧩 &nbsp; Drawn to topics such as **consciousness, symbolic structures, perception and human cognition**.
+- 📖 &nbsp; Interested in **memory systems, mental models, structured learning and interdisciplinary study**.
+- 🌏 &nbsp; Open to global perspectives, cultural exchange and lifelong learning.
+  
 ---
 
 <h3 id="common-core-projects">🎮 &nbsp;42 Projects (Common Core)</h3>
