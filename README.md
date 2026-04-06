@@ -80,7 +80,7 @@
   <tr>
     <td><a href="https://github.com/fernandoruanb/net_practice"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png" alt="net_practice badge"></a></td>
     <td><a href="https://github.com/fernandoruanb/ft_irc"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_irce.png" alt="ft_irc badge"></a></td>
-    <td><a href="https://github.com/fernandoruanb/ft_transcendence"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencem.png" alt="ft_transcendence badge"></a></td>
+    <td><a href="https://github.com/fernandoruanb/transcendence"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencem.png" alt="ft_transcendence badge"></a></td>
     <td><a href="https://github.com/fernandoruanb/inception"><img width="180" src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptione.png"></a></td>
   </tr>
 </table>
