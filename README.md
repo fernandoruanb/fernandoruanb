@@ -323,11 +323,11 @@
 
 <h3 id="github-stats">📈 &nbsp;GitHub Stats</h3>
 <p align="center">
-<img width="400" height="300" alt="image" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif" />
+<img width="400" height="300" alt="image" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif"/>
 </p>
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernandoruanb&show_icons=true&theme=nord" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoruanb&layout=compact&theme=nord" />
+ <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandoruanb&theme=nord_dark" alt="GitHub Stats" />
+ <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandoruanb&theme=nord_dark" alt="Top Languages" />
 </p>
 
 ---
