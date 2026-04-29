@@ -328,7 +328,9 @@
 <p align="center">
  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandoruanb&theme=nord_dark" alt="GitHub Stats" />
  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandoruanb&theme=nord_dark" alt="Top Languages" />
+ <img src="https://leetcard.jacoblin.cool/fernandoruan?theme=radical&font=Fira%20Code&ext=heatmap" width="60%"/>
 </p>
+ 
 
 ---
 
@@ -344,5 +346,4 @@
   <a href="mailto:fernandosingaporefuture@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <img src="https://img.shields.io/badge/Discord-fernandoruan-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
 </p>
