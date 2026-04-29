@@ -329,6 +329,9 @@
  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandoruanb&theme=nord_dark" alt="GitHub Stats" />
  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandoruanb&theme=nord_dark" alt="Top Languages" />
  <img src="https://leetcard.jacoblin.cool/fernandoruan?theme=radical&font=Fira%20Code&ext=heatmap" width="60%"/>
+  <a href="https://codeforces.com/profile/fruan-ba">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=fruan-ba&theme=radical" width="60%" />
+  </a>
 </p>
  
 
