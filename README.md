@@ -339,14 +339,14 @@
 
 <h3 id="connect-with-me">🌐 &nbsp;Connect with Me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/fernando-ruan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Ruan-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Ruan-blue?style=flat-square&logo=linkedin" width="20%" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/fernandoruanb/">
-    <img src="https://img.shields.io/badge/Instagram-fernandoruanb-blue?style=flat-square&logo=instagram" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-fernandoruanb-blue?style=flat-square&logo=instagram" width="24%" alt="Instagram">
   </a>
   <a href="mailto:fernandosingaporefuture@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square&logo=gmail" width="15%" alt="Email">
   </a>
 </p>
