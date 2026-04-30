@@ -349,4 +349,7 @@
   <a href="mailto:fernandosingaporefuture@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square&logo=gmail" width="15%" alt="Email">
   </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-fernandoruan-blue?style=flat-square&logo=discord" width="21%" alt="Discord">
+  </a>
 </p>
