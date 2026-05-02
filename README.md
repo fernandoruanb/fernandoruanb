@@ -250,6 +250,47 @@
   Soon, I will add my testers here, as I believe that building testers is an excellent way to develop an error-detection mindset, as well as to strengthen problem-solving across various scenarios by automating discoveries and anticipating errors before they occur.
 </p>
 
+<h3 id="extracurricular-projects" align="center">🧩 &nbsp; Extracurricular Projects</h3>
+
+<p align="center">
+  Here I will showcase large individual software projects focused on solving real problems through complete graphical applications built with C++, Qt, and SQL.
+</p>
+
+<table align="center">
+  <tr>
+    <th>Image</th>
+    <th>Project</th>
+    <th>Progress</th>
+    <th>Description</th>
+    <th>Stack</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/Discovery-Portal">
+        <img src="https://img.icons8.com/color/96/books.png" width="70" alt="Books icon"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/Discovery-Portal">
+        <strong>Discovery Portal</strong>
+      </a>
+    </td>
+    <td>Under development...</td>
+    <td>
+      A complete university library management system with a graphical interface, designed to manage books, users, loans, searches, and administrative workflows.
+    </td>
+    <td align="center">
+      C++<br>
+      Qt<br>
+      SQL
+    </td>
+    <td align="center">
+      Individual Project
+    </td>
+  </tr>
+</table>
+
 <h2 id="main-interests" align="center">🧠 My Main Interests</h2>
 
 <table align="center">
