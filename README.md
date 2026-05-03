@@ -337,7 +337,7 @@
       SQL
     </td>
     <td align="center">
-      Individual Project
+      Team Project
     </td>
   </tr>
 </table>
