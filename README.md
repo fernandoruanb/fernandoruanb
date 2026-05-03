@@ -318,13 +318,13 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/fernandoruanb/Nexaris">
+      <a href="https://github.com/fernandoruanb/miniERP">
         <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="70" alt="ERP icon"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/fernandoruanb/Nexaris">
-        <strong>Nexaris</strong>
+      <a href="https://github.com/fernandoruanb/miniERP">
+        <strong>miniERP</strong>
       </a>
     </td>
     <td align="center">Planned</td>
