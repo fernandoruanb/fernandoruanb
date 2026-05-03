@@ -265,6 +265,7 @@
     <th>Stack</th>
     <th>Type</th>
   </tr>
+
   <tr>
     <td align="center">
       <a href="https://github.com/fernandoruanb/Discovery-Portal">
@@ -276,9 +277,59 @@
         <strong>Discovery Portal</strong>
       </a>
     </td>
-    <td>Under development...</td>
+    <td align="center">Under development...</td>
     <td>
       A complete university library management system with a graphical interface, designed to manage books, users, loans, searches, and administrative workflows.
+    </td>
+    <td align="center">
+      C++<br>
+      Qt<br>
+      SQL
+    </td>
+    <td align="center">
+      Individual Project
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/Mysteryborne">
+        <img src="https://img.icons8.com/color/96/wizard.png" width="70" alt="Wizard icon"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/Mysteryborne">
+        <strong>Mysteryborne</strong>
+      </a>
+    </td>
+    <td align="center">Planned</td>
+    <td>
+      A 2D game inspired by mystery, chaos, magic, initiation, occult symbolism, and hidden knowledge, focused on atmosphere, exploration, and narrative progression.
+    </td>
+    <td align="center">
+      C++<br>
+      Qt<br>
+      2D Game
+    </td>
+    <td align="center">
+      Individual Project
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/Nexaris">
+        <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="70" alt="ERP icon"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernandoruanb/Nexaris">
+        <strong>Nexaris</strong>
+      </a>
+    </td>
+    <td align="center">Planned</td>
+    <td>
+      A business ERP system designed to support inventory management, financial control, sales operations, customer records, reports, and administrative workflows.
     </td>
     <td align="center">
       C++<br>
