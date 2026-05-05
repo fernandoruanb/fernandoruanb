@@ -279,12 +279,12 @@
     </td>
     <td align="center">Under development...</td>
     <td>
-      A complete university library management system with a graphical interface, designed to manage books, users, loans, searches, and administrative workflows.
+      A complete university library management system with a graphical interface, designed to manage books, users, shelfs, articles, courses, lessons, loans, searches and administrative workflows.
     </td>
     <td align="center">
       C++<br>
-      Qt<br>
-      SQL
+      C#/Blazor<br>
+      PostgreSQL/SQL
     </td>
     <td align="center">
       Individual Project
@@ -308,8 +308,8 @@
     </td>
     <td align="center">
       C++<br>
-      Qt<br>
-      2D Game
+      C#/Blazor<br>
+      PostgreSQL/SQL
     </td>
     <td align="center">
       Individual Project
@@ -332,9 +332,9 @@
       A business ERP system designed to support inventory management, financial control, sales operations, customer records, reports, and administrative workflows.
     </td>
     <td align="center">
-      C++<br>
-      Qt<br>
-      SQL
+      C#<br>
+      Blazor<br>
+      PostgreSQL/SQL
     </td>
     <td align="center">
       Team Project
