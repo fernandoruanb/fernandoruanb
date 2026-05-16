@@ -235,7 +235,7 @@
   </tr>
 </table>
 
-<h3 id="competitive-programming" align="center">🎮 &nbsp; Competitive Programming Zone and Theory Study Based on <a href="https://cppinstitute.org">C++ Institute</a>
+<h3 id="competitive-programming" align="center">🎮 &nbsp; Competitive Programming Zone, Learn how to learn and Theory Study Based on <a href="https://cppinstitute.org">C++ Institute</a>
  </h3>
 <table align="center">
   <tr>
