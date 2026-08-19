@@ -277,7 +277,7 @@
         <strong>Discovery Portal</strong>
       </a>
     </td>
-    <td align="center">Under development...</td>
+    <td align="center">Planned</td>
     <td>
       A complete university library management system with a graphical interface, designed to manage books, users, shelfs, articles, courses, lessons, loans, searches and administrative workflows.
     </td>
